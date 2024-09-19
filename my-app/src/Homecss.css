@@ -1,0 +1,14 @@
+/* Home.css */
+.home-container {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    background-color: #f0f0f0;
+    color: #333;
+  }
+  
+  .home-heading {
+    font-size: 2em;
+    margin: 20px 0;
+  }
+  
